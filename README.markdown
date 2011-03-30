@@ -44,7 +44,7 @@ with hash(array is not supported yet)
     z.create_function_name({:email => 'email@company.com', :name => 'John Doe'})
 
 ### Update
-Not supported yet
+    z.update_ticket(zen_id, comment)
 
 ### Destroy
     z.destroy_function_name(id)
